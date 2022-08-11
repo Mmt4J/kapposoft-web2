@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'domain';
+$email_from = 'https://mmt4j.github.io/kapposoft-web2';
 
 $email_subject = 'New Form Submission';
 
